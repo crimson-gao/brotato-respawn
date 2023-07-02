@@ -1,0 +1,16 @@
+[remap]
+
+importer="csv_translation"
+type="Translation"
+
+[deps]
+
+files=[ "res://mods-unpacked/Crimson-Respawn/translations/respawn_translations.en.translation", "res://mods-unpacked/Crimson-Respawn/translations/respawn_translations.zh.translation", "res://mods-unpacked/Crimson-Respawn/translations/respawn_translations.ja.translation", "res://mods-unpacked/Crimson-Respawn/translations/respawn_translations.fr.translation", "res://mods-unpacked/Crimson-Respawn/translations/respawn_translations.de.translation", "res://mods-unpacked/Crimson-Respawn/translations/respawn_translations.ru.translation" ]
+
+source_file="res://mods-unpacked/Crimson-Respawn/translations/respawn_translations.csv"
+dest_files=[ "res://mods-unpacked/Crimson-Respawn/translations/respawn_translations.en.translation", "res://mods-unpacked/Crimson-Respawn/translations/respawn_translations.zh.translation", "res://mods-unpacked/Crimson-Respawn/translations/respawn_translations.ja.translation", "res://mods-unpacked/Crimson-Respawn/translations/respawn_translations.fr.translation", "res://mods-unpacked/Crimson-Respawn/translations/respawn_translations.de.translation", "res://mods-unpacked/Crimson-Respawn/translations/respawn_translations.ru.translation" ]
+
+[params]
+
+compress=true
+delimiter=0

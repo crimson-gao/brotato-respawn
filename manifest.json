@@ -1,0 +1,17 @@
+{
+  "name": "Respawn",
+  "namespace": "Crimson",
+  "version_number": "1.0.0",
+  "description": "死亡时可以立即原地满血复活，也可以选择光荣地死去。\nYou can respawn when you die, or die with honor.",
+  "website_url": "https://github.com/crimson-gao/brotato-respawn",
+  "dependencies": [],
+  "extra": {
+    "godot": {
+      "incompatibilities": [],
+      "authors": ["Crimson"],
+      "compatible_mod_loader_version": ["6.0.0"],
+      "compatible_game_version": ["0.8.0.3"],
+      "config_defaults": {}
+    }
+  }
+}

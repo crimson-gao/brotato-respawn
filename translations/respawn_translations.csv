@@ -1,0 +1,4 @@
+keys,en,zh,ja,fr,de,ru
+RESPAWN_ASK,"Respawn now?","是否立即复活？","今すぐリスポーンしますか？","Réapparaître maintenant ?","Jetzt wiederbeleben?","Воскреснуть сейчас?"
+RESPAWN_CONFIRM,"Confirm","确认","確認","Confirmer","Bestätigen","Подтвердить"
+RESPAWN_CANCEL,"Cancel","取消","キャンセル","Annuler","Abbrechen","Отменить"
